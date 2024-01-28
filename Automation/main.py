@@ -9,5 +9,5 @@ consolidated_table = pd.DataFrame()
 
 for file_name in files:
   sales_table = pd.read_csv(os.path.join(path, file_name))
-  print(file_name)
+  print(sales_table)
  
