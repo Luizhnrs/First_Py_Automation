@@ -8,6 +8,6 @@ print(files)
 consolidated_table = pd.DataFrame()
 
 for file_name in files:
-  "FilePath"
+  sales_table = pd.read_csv()
   print(file_name)
  
